@@ -18,7 +18,6 @@ else:
        print("На нуль ділити не можна")
    else:
        print("Обрана не правильна дія")
-
 # variant2
 print("variant2")
 number1=int(input("Внесіть перший операнд(a): "))
